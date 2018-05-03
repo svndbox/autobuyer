@@ -1,0 +1,45 @@
+{
+  "shippingInfo": {
+    "firstName": "Ryan",
+    "lastName": "Chacon",
+    "email": "ryan.chacon103@yahoo.com",
+    "phone": "9162064207",
+    "address": "4916 santa cruz ave",
+    "address2": "#12",
+    "city": "san diego",
+    "zip": "92107",
+    "country": "US"
+  },
+
+  "billingInfoSameAsShipping": "false",
+
+  "billingInfo": {
+    "firstName": "Ryan",
+    "lastName": "Chacon",
+    "address": "4916 santa cruz ave",
+    "address2": "#12",
+    "city": "San Diego",
+    "zip": "92107",
+    "country": "US"
+  },
+
+  "ccInfo": {
+    "cardNumber": "1234567890123456",
+    "expMonth": "10",
+    "expYear": "19",
+    "cvv": "999"
+  },
+
+  "sizingInfo": {
+    "t-Shirt": ["Large"],
+    "shirt": ["Large"],
+    "sweatshirt": ["Large"],
+    "jacket": ["Large"],
+    "pants": ["32"],
+    "shoes": ["9"],
+    "default": ["9", "Large"]
+  },
+
+  "productURLs": ["https://www.namecheap.com/domains/registration/results.aspx?domain=ohryan.io"]
+
+}

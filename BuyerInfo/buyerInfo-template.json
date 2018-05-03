@@ -1,0 +1,45 @@
+{
+  "shippingInfo": {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "address2": "",
+    "city": "",
+    "zip": "",
+    "country": ""
+  },
+
+  "billingInfoSameAsShipping": "true",
+
+  "billingInfo": {
+    "firstName": "",
+    "lastName": "",
+    "address": "",
+    "address2": "",
+    "city": "",
+    "zip": "",
+    "country": ""
+  },
+
+  "ccInfo": {
+    "cardNumber": "",
+    "expMonth": "",
+    "expYear": "",
+    "cvv": ""
+  },
+
+  "sizingInfo": {
+    "t-Shirt": [],
+    "shirt": [],
+    "sweatshirt": [],
+    "jacket": [],
+    "pants": [],
+    "shoes": [],
+    "default": []
+  },
+
+  "productURLs": []
+
+}
